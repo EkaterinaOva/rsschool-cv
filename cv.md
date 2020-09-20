@@ -80,3 +80,18 @@ max=b;
 	alert('максимальное из введенных чисел равно'+max);
 	</script>
 ```
+
+#### Courses
+I took courses:
+-	 “HTML/CSS” by portal Geek Brais
+- “Jawa Script” by HTML Academy 
+
+#### Aducation
+
+
+I am a graduate of ***the Belarusian State Academy of Telecommunications*** majoring in software for telecommunications networks.
+
+
+My **level of English** A2. Now I am engaged in improving my level of knowledge of the English language.
+
+
