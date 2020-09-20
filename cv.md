@@ -25,7 +25,7 @@ I have also studied and can apply:
 - HTML
 - CSS.
 
- Example HTML code:
+ #### Example HTML code:
 ```
 <body>
     <header class='header'>
@@ -58,7 +58,7 @@ I have also studied and can apply:
 </html>
 ```
 
-Example JS code: 
+#### Example JS code: 
 
 ```
 <script>
